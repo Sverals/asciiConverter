@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="asciiConverter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/asciiConverter_jar</output-path>
+    <root id="archive" name="asciiConverter.jar">
+      <element id="module-output" name="asciiConverter" />
+    </root>
+  </artifact>
+</component>
